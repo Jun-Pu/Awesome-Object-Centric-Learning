@@ -45,19 +45,19 @@
 
 ### Synthetic Data
     
-**Year** | **Publication** | **Name** | **Source** 
-:-: | :-:|  :-: | :-: 
-**2023** | **CLeaR** | **ProcTHOR** | [Link](https://github.com/CausalTriplet/causaltriplet)
-**2022** | **NeurIPS** | **MSN-Hard** | [Link](https://osrt-paper.github.io/#dataset)
-**2021** | **NeurIPS** | **ClevrTex** | [Link](https://www.robots.ox.ac.uk/~vgg/data/clevrtex/)
-**2019** | | **Multi-Obj** | [Link](https://github.com/deepmind/multi_object_datasets)
-**2017** | **CVPR** | **CLEVR** | [Link](https://cs.stanford.edu/people/jcjohns/clevr/)
+**Year** | **Name** | **Source** 
+:-: | :-: | :-: 
+**2023** | **ProcTHOR** | [Link](https://github.com/CausalTriplet/causaltriplet)
+**2022** | **MSN-Hard** | [Link](https://osrt-paper.github.io/#dataset)
+**2021** | **ClevrTex** | [Link](https://www.robots.ox.ac.uk/~vgg/data/clevrtex/)
+**2019** | **Multi-Obj** | [Link](https://github.com/deepmind/multi_object_datasets)
+**2017** | **CLEVR** | [Link](https://cs.stanford.edu/people/jcjohns/clevr/)
     
 ### Real-World Data
     
-**Year** | **Publication** | **Name** | **Source** 
-:-: | :-:|  :-: | :-: 
-**2022** | **NeurIPS** | **YCB,ScanNet and COCO** | [Link](https://github.com/vLAR-group/UnsupObjSeg)
+**Year** | **Name** | **Source** 
+:-: | :-: | :-: 
+**2022** | **YCB,ScanNet and COCO** | [Link](https://github.com/vLAR-group/UnsupObjSeg)
 
 ## Methodologies
 
