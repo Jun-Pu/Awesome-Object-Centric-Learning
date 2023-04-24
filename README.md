@@ -4,12 +4,12 @@
 
 # <p align=center>`Awesome object-centric learning`
 
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<p align="center">
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) 
+![Forks]()
+![Stargazers]()
+![Issues]()
+![LinkedIn]()
 
 <p align="center">
  The list will be continually updated. Any recommendations and suggestions are welcomed!
@@ -18,7 +18,7 @@
         
 
 <details>
-  <summary>Table of Contents</summary>
+  <summary>## Table of Contents</summary>
   <ol>
     <li>
       <a href="#Datasets & Benchmarks">Datasets \& Benchmarks</a>
