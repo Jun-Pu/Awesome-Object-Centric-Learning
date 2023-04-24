@@ -50,6 +50,8 @@
     
 [Object Scene Representation Transformer](https://osrt-paper.github.io/#dataset)
     
+[ClevrTex](https://www.robots.ox.ac.uk/~vgg/data/clevrtex/#)
+    
 ### Real-World Data
 
 
@@ -109,6 +111,18 @@
 **2022** | **CoRLw** | [Differentiable Parsing And Visual Grounding of Verbal Instructions for Object Placement](https://openreview.net/pdf?id=w09jBOzi80) | | [OpenReview](https://openreview.net/forum?id=w09jBOzi80)
 
 ### Year 2021
+    
+**Year** | **Publication** | **Title** | **Source** | **Forum** |  **Real-World?**  
+:-: | :-:| :- | :-: | :-: | :-:
+**2021** | **NeurIPS** | [Unsupervised Foreground Extraction via Deep Region Competition](https://arxiv.org/pdf/2110.15497.pdf) | [Code](https://github.com/yuPeiyu98/DRC) | [OpenReview](https://openreview.net/forum?id=tu5Wg41hWl_)
+**2021** | **NeurIPS** | [SIMONe: View-Invariant, Temporally-Abstracted Object Representations via Unsupervised Video Decomposition](https://arxiv.org/pdf/2106.03849.pdf) | [Code](https://sites.google.com/view/simone-scene-understanding/) | [OpenReview](https://openreview.net/forum?id=YSzTMntO1KY)
+**2021** | **NeurIPS** | [Object-Centric Representation Learning with Generative Spatial-Temporal Factorization](https://arxiv.org/pdf/2111.05393.pdf) |  | [OpenReview](https://openreview.net/forum?id=cA8Yp87yTiR)
+**2021** | **NeurIPS** | [Neural Production Systems](https://arxiv.org/pdf/2103.01937.pdf) | | [OpenReview](https://openreview.net/forum?id=xQGYquca0gB)
+**2021** | **NeurIPS** | [Mini-Batch Consistent Slot Set Encoder for Scalable Set Encoding](https://openreview.net/pdf?id=FTdrVlWfvsz) |  | [OpenReview](https://openreview.net/forum?id=FTdrVlWfvsz)
+**2021** | **NeurIPS** | [MarioNette: Self-Supervised Sprite Learning](https://arxiv.org/pdf/2104.14553.pdf) | [Code](https://github.com/dmsm/MarioNette) | [OpenReview](https://openreview.net/forum?id=3zP6RrQtNa)
+**2021** | **NeurIPS** | [GENESIS-V2: Inferring Unordered Object Representations without Iterative Refinement](https://arxiv.org/pdf/2104.09958v2.pdf) | [Code](https://github.com/applied-ai-lab/genesis) | [OpenReview](https://openreview.net/forum?id=nRBZWEUhIhW)
+**2021** | **NeurIPS** | [Dynamic Visual Reasoning by Learning Differentiable Physics Models from Video and Language](https://arxiv.org/pdf/2110.15358.pdf) | [Code](http://vrdp.csail.mit.edu/) | [OpenReview](https://openreview.net/forum?id=lk1ORT35tbi)
+**2021** | **NeurIPS** | [Attention over Learned Object Embeddings Enables Complex Visual Reasoning](https://arxiv.org/pdf/2012.08508.pdf) | [Code](https://github.com/deepmind/deepmind-research/tree/master/object_attention_for_reasoning) | [OpenReview](https://openreview.net/forum?id=lHmhW2zmVN)
 
 ### Year 2020
 
