@@ -65,20 +65,20 @@
     
 **Year** | **Publication** | **Title** | **Source** | **Forum** |  **Real-World?**  
 :-: | :-:| :- | :-: | :-: | :-:
-**2023** | **CVPR** | [Improving Cross-Modal Retrieval with Set of Diverse Embeddings](https://arxiv.org/pdf/2211.16761.pdf) | | | :heavy_check_mark:
+**2023** | **CVPR** | [Improving Cross-Modal Retrieval with Set of Diverse Embeddings](https://arxiv.org/pdf/2211.16761.pdf) | | | :white_check_mark:
 **2023** | **CVPR** | [Intrinsic Physical Concepts Discovery with Object-Centric Predictive Models](https://arxiv.org/pdf/2303.01869.pdf) | | | 
 **2023** | **CVPR** | [Object Discovery from Motion-Guided Tokens](https://arxiv.org/pdf/2303.15555.pdf) | [Code](https://github.com/zpbao/MoTok) | | | :heavy_check_mark:
 **2023** | **CVPR** | [Shepherding Slots to Objects: Towards Stable and Robust Object-Centric Learning](https://arxiv.org/pdf/2303.17842.pdf) | [Code](https://github.com/object-understanding/SLASH) |  | 
-**2023** | **ICLR** | [Bridging the Gap to Real-World Object-Centric Learning](https://openreview.net/pdf?id=b9tUk-f_aG) | | [OpenReview](https://openreview.net/forum?id=b9tUk-f_aG) | :heavy_check_mark:
-**2023** | **ICLR** | [Improving Object-centric Learning with Query Optimization](https://openreview.net/pdf?id=_-FN9mJsgg) | [Code](https://github.com/YuLiu-LY/BO-QSA) | [OpenReview](https://openreview.net/forum?id=_-FN9mJsgg) | :heavy_check_mark: 
+**2023** | **ICLR** | [Bridging the Gap to Real-World Object-Centric Learning](https://openreview.net/pdf?id=b9tUk-f_aG) | | [OpenReview](https://openreview.net/forum?id=b9tUk-f_aG) | :white_check_mark:
+**2023** | **ICLR** | [Improving Object-centric Learning with Query Optimization](https://openreview.net/pdf?id=_-FN9mJsgg) | [Code](https://github.com/YuLiu-LY/BO-QSA) | [OpenReview](https://openreview.net/forum?id=_-FN9mJsgg) | :white_check_mark:
 **2023** | **ICLR** | [Learning to Reason over Visual Objects](https://openreview.net/pdf?id=uR6x8Be7o_M) | | [OpenReview](https://openreview.net/forum?id=uR6x8Be7o_M) |
-**2023** | **ICLR** | [Learning What and Where: Disentangling Location and Identity Tracking Without Supervision](https://openreview.net/pdf?id=NeDc-Ak-H_) | [Code](https://github.com/CognitiveModeling/Loci) | [OpenReview](https://openreview.net/forum?id=NeDc-Ak-H_) | :heavy_check_mark:
+**2023** | **ICLR** | [Learning What and Where: Disentangling Location and Identity Tracking Without Supervision](https://openreview.net/pdf?id=NeDc-Ak-H_) | [Code](https://github.com/CognitiveModeling/Loci) | [OpenReview](https://openreview.net/forum?id=NeDc-Ak-H_) | :white_check_mark:
 **2023** | **ICLR** | [Neural Constraint Satisfaction: Hierarchical Abstraction for Combinatorial Generalization in Object Rearrangement](https://arxiv.org/pdf/2303.11373.pdf) | [Code](https://sites.google.com/view/neural-constraint-satisfaction/home) | [OpenReview](https://openreview.net/forum?id=fGG6vHp3W9W) | 
 **2023** | **ICLR** | [Robust and Controllable Object-Centric Learning through Energy-based Models](https://openreview.net/pdf?id=wcNtbEtcGIC) | | [OpenReview](https://openreview.net/forum?id=wcNtbEtcGIC) | 
 **2023** | **ICLR** | [Neural Groundplans: Persistent Neural Scene Representations from a Single Image](https://arxiv.org/pdf/2207.11232.pdf) | [Code](https://prafullsharma.net/neural_groundplans/) | [OpenReview](https://openreview.net/forum?id=Pza24zf9FpS) | 
 **2023** | **ICLR** | [Neural Systematic Binder](https://arxiv.org/pdf/2211.01177.pdf) | [Code](https://github.com/singhgautam/sysbinder) | [OpenReview](https://openreview.net/forum?id=ZPHE4fht19t) | 
-**2023** | **ICLR** | [SlotFormer: Unsupervised Visual Dynamics Simulation with Object-Centric Models](https://arxiv.org/pdf/2210.05861.pdf) <br><sup><sub> **TL;DR:** hahha </sub></sup> | [Code](https://github.com/pairlab/SlotFormer) | [OpenReview](https://openreview.net/forum?id=TFbwV6I0VLg) | 
-**2023** | **CLeaR** | [Causal Triplet: An Open Challenge for Intervention-centric Causal Representation Learning](https://openreview.net/pdf?id=HAYU8TRYTCb) <br><sup><sub> **TL;DR:** hahha </sub></sup>  | [Code](https://github.com/CausalTriplet/causaltriplet) | [OpenReview](https://openreview.net/forum?id=HAYU8TRYTCb) | :heavy_check_mark:
+**2023** | **ICLR** | [SlotFormer: Unsupervised Visual Dynamics Simulation with Object-Centric Models](https://arxiv.org/pdf/2210.05861.pdf) | [Code](https://github.com/pairlab/SlotFormer) | [OpenReview](https://openreview.net/forum?id=TFbwV6I0VLg) | 
+**2023** | **CLeaR** | [Causal Triplet: An Open Challenge for Intervention-centric Causal Representation Learning](https://openreview.net/pdf?id=HAYU8TRYTCb)   | [Code](https://github.com/CausalTriplet/causaltriplet) | [OpenReview](https://openreview.net/forum?id=HAYU8TRYTCb) | :white_check_mark:
 
 
 ### Year 2022
@@ -141,7 +141,7 @@
 :-: | :-:| :- | :-: | :-: | :-:
 **2020** | **NeurIPSw** | [Learning Object-Centric Video Models by Contrasting Sets](https://arxiv.org/pdf/2011.10287.pdf) | 
 **2020** | **NeurIPS** | [Learning Object-Centric Representations of Multi-Object Scenes from Multiple Views](https://arxiv.org/pdf/2111.07117.pdf) | [Code](https://github.com/NanboLi/MulMON) | [Review](https://proceedings.neurips.cc/paper_files/paper/2020/file/3d9dabe52805a1ea21864b09f3397593-Review.html)
-**2020** | **NeurIPS** | [Object-Centric Learning with Slot Attention](https://arxiv.org/pdf/2006.15055.pdf) | [Code](https://github.com/google-research/google-research/tree/master/slot_attention) | [Review](https://papers.nips.cc/paper/2020/file/8511df98c02ab60aea1b2356c013bc0f-Review.html)
+**2020** | **NeurIPS** | [Object-Centric Learning with Slot Attention](https://arxiv.org/pdf/2006.15055.pdf) | [Code](https://github.com/google-research/google-research/tree/master/slot_attention) <br><sup><sub> **TL;DR:** Learning object concepts iteratively with CNN-based high-level features. </sub></sup> | [Review](https://papers.nips.cc/paper/2020/file/8511df98c02ab60aea1b2356c013bc0f-Review.html)
 
 ## Contact
     
