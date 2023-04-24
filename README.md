@@ -20,7 +20,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#Datasets and Benchmarks">Datasets \& Benchmarks</a>
+      <a href="#Datasets">Datasets</a>
       <ul>
         <li><a href="#Synthetic Data">Synthetic Data</a></li>
          <li><a href="#Real-World Data">Real-World Data</a></li>
@@ -40,7 +40,7 @@
 </details>
 
 
-## Datasets \& Benchmarks
+## Datasets
 
 ### Synthetic Data
 
@@ -74,6 +74,17 @@
 
 
 ### Year 2022
+    
+**Year** | **Publication** | **Title** | **Source** | **Forum** |  **Real-World?**  
+:-: | :-:| :- | :-: | :-: | :-:
+**2022** | **UAIw** | [Inductive Biases for Object-Centric Representations in the Presence of Complex Textures](https://arxiv.org/pdf/2204.08479.pdf) | | [OpenReview](https://openreview.net/forum?id=6wbNpKmfEOj) |
+**2022** | **TMLR** | [Complex-Valued Autoencoders for Object Discovery](https://arxiv.org/pdf/2204.02075.pdf) | [Code](https://github.com/loeweX/ComplexAutoEncoder) | | 
+**2022** | **NeurIPSw** | [Unlocking Slot Attention by Changing Optimal Transport Costs](https://arxiv.org/pdf/2301.13197.pdf) |  | [OpenReview](https://openreview.net/forum?id=27L6M45WI9) | 
+**2022** | **NeurIPS** | [Weakly Supervised Causal Representation Learning](https://arxiv.org/pdf/2203.16437.pdf) | | [OpenReview](https://openreview.net/forum?id=dz79MhQXWvg) |
+**2022** | **NeurIPS** | [Visual Concepts Tokenization](https://arxiv.org/pdf/2205.10093.pdf) | [Code](https://github.com/thomasmry/VCT) | [OpenReview](https://openreview.net/forum?id=rWgfLdqVVl_&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2022%2FConference%2FAuthors%23your-submissions)) | 
+**2022** | **NeurIPS** | [Unsupervised Multi-object Segmentation by Predicting Probable Motion Patterns](https://arxiv.org/pdf/2210.12148.pdf) | [Code](https://www.robots.ox.ac.uk/~vgg/research/ppmp/) | [OpenReview](https://openreview.net/forum?id=_w2-1nXNjvv) | 
+**2022** | **NeurIPS** | [Unsupervised Causal Generative Understanding of Images](https://openreview.net/pdf?id=VvOcK2DGM7G) | | [OpenReview](https://openreview.net/forum?id=VvOcK2DGM7G) | 
+**2022** | **NeurIPS** | []() | [Code]() | [OpenReview]() | 
 
 ### Year 2021
 
