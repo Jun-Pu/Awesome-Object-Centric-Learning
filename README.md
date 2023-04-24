@@ -101,6 +101,12 @@
 **2022** | **CVPR** | [HP-Capsule: Unsupervised Face Part Discovery by Hierarchical Parsing Capsule Network](https://arxiv.org/pdf/2203.10699.pdf) |  | 
 **2022** | **CVPR** | [Discovering Objects that Can Move](https://arxiv.org/pdf/2203.10159.pdf) | [Code](https://github.com/zpbao/Discovery_Obj_Move/) | 
 **2022** | **ICLRw** | [Towards Self-Supervised Learning of Global and Object-Centric Representations](https://arxiv.org/pdf/2203.05997.pdf) | [Code](https://github.com/baldassarreFe/iclr-osc-22) | [OpenReview](https://openreview.net/forum?id=SRfVvBuI9xq)
+**2022** | **ICLR** | [Unsupervised Discovery of Object Radiance Fields](https://arxiv.org/pdf/2107.07905.pdf) | [Code](https://github.com/KovenYu/uORF) | [OpenReview](https://openreview.net/forum?id=rwE8SshAlxw)
+**2022** | **ICLR** | [Learning Super-Features for Image Retrieval](https://arxiv.org/pdf/2201.13182.pdf) | [Code](https://github.com/naver/FIRe) | [OpenReview](https://openreview.net/forum?id=wogsFPHwftY)
+**2022** | **ICLR** | [Evaluating Disentanglement of Structured Representations](https://arxiv.org/pdf/2101.04041.pdf) | | [OpenReview](https://openreview.net/forum?id=SLz5sZjacp)
+**2022** | **CLeaR** | [VIM: Variational Independent Modules for Video Prediction](https://openreview.net/pdf?id=bDOU-vlPM8n) | | [OpenReview](https://openreview.net/forum?id=bDOU-vlPM8n)
+**2022** | **CoRLw** | [Visuomotor Control in Multi-Object Scenes Using Object-Aware Representations](https://arxiv.org/pdf/2205.06333.pdf) | | [OpenReview](https://openreview.net/forum?id=02QLa91hTl&referrer=%5Bthe%20profile%20of%20Pierre%20Sermanet%5D(%2Fprofile%3Fid%3D~Pierre_Sermanet1))
+**2022** | **CoRLw** | [Differentiable Parsing And Visual Grounding of Verbal Instructions for Object Placement](https://openreview.net/pdf?id=w09jBOzi80) | | [OpenReview](https://openreview.net/forum?id=w09jBOzi80)
 
 ### Year 2021
 
