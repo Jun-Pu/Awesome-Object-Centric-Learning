@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./figs/fig_ObjCL_LOGO.png"/> <br />
+    <img src="./figs/fig_ObjCL_LOGO.png" width="90%"/> <br />
 </p>
 
 # <p align=center>`Awesome object-centric learning`
