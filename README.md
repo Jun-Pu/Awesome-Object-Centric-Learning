@@ -52,6 +52,10 @@
     
 [ClevrTex](https://www.robots.ox.ac.uk/~vgg/data/clevrtex/#)
     
+[EfficientMORL](https://github.com/pemami4911/EfficientMORL)
+    
+[GRF](https://github.com/alextrevithick/GRF)
+    
 ### Real-World Data
 
 
@@ -123,6 +127,12 @@
 **2021** | **NeurIPS** | [GENESIS-V2: Inferring Unordered Object Representations without Iterative Refinement](https://arxiv.org/pdf/2104.09958v2.pdf) | [Code](https://github.com/applied-ai-lab/genesis) | [OpenReview](https://openreview.net/forum?id=nRBZWEUhIhW)
 **2021** | **NeurIPS** | [Dynamic Visual Reasoning by Learning Differentiable Physics Models from Video and Language](https://arxiv.org/pdf/2110.15358.pdf) | [Code](http://vrdp.csail.mit.edu/) | [OpenReview](https://openreview.net/forum?id=lk1ORT35tbi)
 **2021** | **NeurIPS** | [Attention over Learned Object Embeddings Enables Complex Visual Reasoning](https://arxiv.org/pdf/2012.08508.pdf) | [Code](https://github.com/deepmind/deepmind-research/tree/master/object_attention_for_reasoning) | [OpenReview](https://openreview.net/forum?id=lHmhW2zmVN)
+**2021** | **ICML** | [Efficient Iterative Amortized Inference for Learning Symmetric and Disentangled Multi-Object Representations](https://arxiv.org/pdf/2106.03630.pdf) | [Code](https://github.com/pemami4911/EfficientMORL) |
+**2021** | **ICCV** | [Self-supervised Video Object Segmentation by Motion Grouping](https://arxiv.org/pdf/2104.07658.pdf) | [Code](https://charigyang.github.io/motiongroup/) 
+**2021** | **ICCV** | [SCOUTER: Slot Attention-based Classifier for Explainable Image Recognition](https://arxiv.org/pdf/2009.06138.pdf) | [Code](https://github.com/wbw520/scouter) 
+**2021** | **ICCV** | [PARTS: Unsupervised segmentation with slots, attention and independence maximization](https://openaccess.thecvf.com/content/ICCV2021/papers/Zoran_PARTS_Unsupervised_Segmentation_With_Slots_Attention_and_Independence_Maximization_ICCV_2021_paper.pdf) | 
+**2021** | **ICCV** | [GRF: Learning a General Radiance Field for 3D Representation and Rendering](https://arxiv.org/abs/2010.04595) | [Code](https://github.com/alextrevithick/GRF) 
+**2021** | **ACL** | [Language-Mediated, Object-Centric Representation Learning](https://arxiv.org/pdf/2012.15814.pdf) | [Code](https://lang-orl.github.io/)
 
 ### Year 2020
 
