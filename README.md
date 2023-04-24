@@ -5,10 +5,10 @@
 # <p align=center>`Awesome object-centric learning`
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) 
-![Forks]()
-![Stargazers]()
-![Issues]()
-![LinkedIn]()
+![Forks](https://github.com/Jun-Pu/Awesome-object-centric-learning/forks)
+![Stargazers](https://github.com/Jun-Pu/Awesome-object-centric-learning/stargazers)
+![Issues](https://github.com/Jun-Pu/Awesome-object-centric-learning/issues)
+![LinkedIn](https://www.linkedin.com/in/Jun-Pu/)
 
 <p align="center">
  The list will be continually updated. Any recommendations and suggestions are welcomed!
@@ -50,13 +50,13 @@
 **2022** | **NeurIPS** | **MSN-Hard** | [Link](https://osrt-paper.github.io/#dataset)
 **2021** | **NeurIPS** | **ClevrTex** | [Link](https://www.robots.ox.ac.uk/~vgg/data/clevrtex/)
 **2019** | | **Multi-Obj** | [Link](https://github.com/deepmind/multi_object_datasets)
-**2017** | **CVPR* | **CLEVR** | [Link](https://cs.stanford.edu/people/jcjohns/clevr/)
+**2017** | **CVPR** | **CLEVR** | [Link](https://cs.stanford.edu/people/jcjohns/clevr/)
     
 ### Real-World Data
     
 **Year** | **Publication** | **Name** | **Source** 
 :-: | :-:|  :-: | :-: 
-**2022** | **NeurIPS** | YCB,ScanNet and COCO | [Link](https://github.com/vLAR-group/UnsupObjSeg)
+**2022** | **NeurIPS** | **YCB,ScanNet and COCO** | [Link](https://github.com/vLAR-group/UnsupObjSeg)
 
 ## Methodologies
 
