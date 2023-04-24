@@ -5,10 +5,11 @@
 # <p align=center>`Awesome object-centric learning`
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) 
-![Forks](https://github.com/Jun-Pu/Awesome-object-centric-learning/forks)
-![Stargazers](https://github.com/Jun-Pu/Awesome-object-centric-learning/stargazers)
-![Issues](https://github.com/Jun-Pu/Awesome-object-centric-learning/issues)
-![LinkedIn](https://www.linkedin.com/in/Jun-Pu/)
+[![Forks](https://img.shields.io/github/forks/Jun-Pu/Awesome-object-centric-learning.svg?style=for-the-badge)](https://github.com/Jun-Pu/Awesome-object-centric-learning/network/members)
+[![Stargazers](https://img.shields.io/github/stars/Jun-Pu/Awesome-object-centric-learning.svg?style=for-the-badge)](https://github.com/Jun-Pu/Awesome-object-centric-learning/stargazers)
+[![Issues](https://img.shields.io/github/issues/Jun-Pu/Awesome-object-centric-learning.svg?style=for-the-badge)](https://github.com/Jun-Pu/Awesome-object-centric-learning/issues)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://www.linkedin.com/in/Jun-Pu/)
+   
 
 <p align="center">
  The list will be continually updated. Any recommendations and suggestions are welcomed!
