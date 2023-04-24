@@ -4,7 +4,7 @@
 
 # <p align=center>`Awesome object-centric learning`
 
-<p align="center">
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -14,12 +14,14 @@
 <p align="center">
  The list will be continually updated. Any recommendations and suggestions are welcomed!
 
+< **Last updated: Apr/25/2023** >
+        
 
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#Datasets \& Benchmarks">Datasets \& Benchmarks</a>
+      <a href="#Datasets & Benchmarks">Datasets \& Benchmarks</a>
       <ul>
         <li><a href="#Synthetic Data">Synthetic Data</a></li>
          <li><a href="#Real-World Data">Real-World Data</a></li>
@@ -49,6 +51,7 @@
 ## Methodologies
 
 ### Year 2023
+    
 
 ### Year 2022
 
