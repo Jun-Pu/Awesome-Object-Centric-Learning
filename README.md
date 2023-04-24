@@ -107,6 +107,7 @@
 **2022** | **CVPR** | [HP-Capsule: Unsupervised Face Part Discovery by Hierarchical Parsing Capsule Network](https://arxiv.org/pdf/2203.10699.pdf) |  | 
 **2022** | **CVPR** | [Discovering Objects that Can Move](https://arxiv.org/pdf/2203.10159.pdf) | [Code](https://github.com/zpbao/Discovery_Obj_Move/) | 
 **2022** | **ICLRw** | [Towards Self-Supervised Learning of Global and Object-Centric Representations](https://arxiv.org/pdf/2203.05997.pdf) | [Code](https://github.com/baldassarreFe/iclr-osc-22) | [OpenReview](https://openreview.net/forum?id=SRfVvBuI9xq)
+**2022** | **ICLR** | [Conditional Object-Centric Learning from Video](https://openreview.net/pdf?id=aD7uesX1GF_) | [Code](https://github.com/google-research/slot-attention-video/) | [OpenReview](https://openreview.net/forum?id=aD7uesX1GF_)
 **2022** | **ICLR** | [Unsupervised Discovery of Object Radiance Fields](https://arxiv.org/pdf/2107.07905.pdf) | [Code](https://github.com/KovenYu/uORF) | [OpenReview](https://openreview.net/forum?id=rwE8SshAlxw)
 **2022** | **ICLR** | [Learning Super-Features for Image Retrieval](https://arxiv.org/pdf/2201.13182.pdf) | [Code](https://github.com/naver/FIRe) | [OpenReview](https://openreview.net/forum?id=wogsFPHwftY)
 **2022** | **ICLR** | [Evaluating Disentanglement of Structured Representations](https://arxiv.org/pdf/2101.04041.pdf) | | [OpenReview](https://openreview.net/forum?id=SLz5sZjacp)
@@ -135,7 +136,12 @@
 **2021** | **ACL** | [Language-Mediated, Object-Centric Representation Learning](https://arxiv.org/pdf/2012.15814.pdf) | [Code](https://lang-orl.github.io/)
 
 ### Year 2020
-
+    
+**Year** | **Publication** | **Title** | **Source** | **Forum** |  **Real-World?**  
+:-: | :-:| :- | :-: | :-: | :-:
+**2020** | **NeurIPSw** | [Learning Object-Centric Video Models by Contrasting Sets](https://arxiv.org/pdf/2011.10287.pdf) | 
+**2020** | **NeurIPS** | [Learning Object-Centric Representations of Multi-Object Scenes from Multiple Views](https://arxiv.org/pdf/2111.07117.pdf) | [Code](https://github.com/NanboLi/MulMON) | [Review](https://proceedings.neurips.cc/paper_files/paper/2020/file/3d9dabe52805a1ea21864b09f3397593-Review.html)
+**2020** | **NeurIPS** | [Object-Centric Learning with Slot Attention](https://arxiv.org/pdf/2006.15055.pdf) | [Code](https://github.com/google-research/google-research/tree/master/slot_attention) | [Review](https://papers.nips.cc/paper/2020/file/8511df98c02ab60aea1b2356c013bc0f-Review.html)
 
 ## Contact
     
