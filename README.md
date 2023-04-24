@@ -4,7 +4,6 @@
 
 # <p align=center>`Awesome object-centric learning`
 
-<p align="center">
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 ![Forks]()
 ![Stargazers]()
