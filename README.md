@@ -57,8 +57,10 @@
     
 **Year** | **Publication** | **Title** | **Source** | **Forum** |  **Real-World?**  
 :-: | :-:| :- | :-: | :-: | :-:
-**2023** | **CLeaR** | [Causal Triplet: An Open Challenge for Intervention-centric Causal Representation Learning](https://openreview.net/pdf?id=HAYU8TRYTCb) <br><sup><sub> **TL;DR:** hahha </sub></sup>  | [Code](https://github.com/CausalTriplet/causaltriplet) | [OpenReview](https://openreview.net/forum?id=HAYU8TRYTCb) | 👍 
-**2023** | **ICLR** | []() | [Code]() | OpenReview() |
+**2023** | **CVPR** | [Improving Cross-Modal Retrieval with Set of Diverse Embeddings](https://arxiv.org/pdf/2211.16761.pdf) | | | 
+**2023** | **CVPR** | [Intrinsic Physical Concepts Discovery with Object-Centric Predictive Models](https://arxiv.org/pdf/2303.01869.pdf) | | | 
+**2023** | **CVPR** | [Object Discovery from Motion-Guided Tokens](https://arxiv.org/pdf/2303.15555.pdf) | [Code](https://github.com/zpbao/MoTok) | | 
+**2023** | **CVPR** | [Shepherding Slots to Objects: Towards Stable and Robust Object-Centric Learning](https://arxiv.org/pdf/2303.17842.pdf) | [Code](https://github.com/object-understanding/SLASH) |  | 
 **2023** | **ICLR** | [Bridging the Gap to Real-World Object-Centric Learning](https://openreview.net/pdf?id=b9tUk-f_aG) | | [OpenReview](https://openreview.net/forum?id=b9tUk-f_aG) |
 **2023** | **ICLR** | [Improving Object-centric Learning with Query Optimization](https://openreview.net/pdf?id=_-FN9mJsgg) | [Code](https://github.com/YuLiu-LY/BO-QSA) | [OpenReview](https://openreview.net/forum?id=_-FN9mJsgg) | 👍 
 **2023** | **ICLR** | [Learning to reason over visual objects](https://openreview.net/pdf?id=uR6x8Be7o_M) | | [OpenReview](https://openreview.net/forum?id=uR6x8Be7o_M) |
@@ -68,6 +70,7 @@
 **2023** | **ICLR** | [Neural Groundplans: Persistent Neural Scene Representations from a Single Image](https://arxiv.org/pdf/2207.11232.pdf) | [Code](https://prafullsharma.net/neural_groundplans/) | [OpenReview](https://openreview.net/forum?id=Pza24zf9FpS) | 
 **2023** | **ICLR** | [Neural Systematic Binder](https://arxiv.org/pdf/2211.01177.pdf) | [Code](https://github.com/singhgautam/sysbinder) | [OpenReview](https://openreview.net/forum?id=ZPHE4fht19t) | 
 **2023** | **ICLR** | [SlotFormer: Unsupervised Visual Dynamics Simulation with Object-Centric Models](https://arxiv.org/pdf/2210.05861.pdf) <br><sup><sub> **TL;DR:** hahha </sub></sup> | [Code](https://github.com/pairlab/SlotFormer) | [OpenReview](https://openreview.net/forum?id=TFbwV6I0VLg) | 
+**2023** | **CLeaR** | [Causal Triplet: An Open Challenge for Intervention-centric Causal Representation Learning](https://openreview.net/pdf?id=HAYU8TRYTCb) <br><sup><sub> **TL;DR:** hahha </sub></sup>  | [Code](https://github.com/CausalTriplet/causaltriplet) | [OpenReview](https://openreview.net/forum?id=HAYU8TRYTCb) | 👍 
 
 
 ### Year 2022
@@ -79,4 +82,4 @@
 
 ## Contact
     
- [📧](yi23zhang.2022@gmail.com)
+Feel free to drop an e-mail to [junpuzhang.2022@gmail.com].
