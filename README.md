@@ -92,6 +92,15 @@
 **2022** | **NeurIPS** | [Object Scene Representation Transformer](https://arxiv.org/pdf/2206.06922.pdf) | [Code](https://osrt-paper.github.io/#code) | [OpenReview](https://openreview.net/forum?id=znNmsN_O7Sh) |
 **2022** | **NeurIPS** | [Object Representations as Fixed Points: Training Iterative Refinement Algorithms with Implicit Differentiation](https://arxiv.org/pdf/2207.00787.pdf) | [Code](https://sites.google.com/view/implicit-slot-attention) | [OpenReview](https://openreview.net/forum?id=-5rFUTO2NWe) |
 **2022** | **NeurIPS** | [3D Concept Grounding on Neural Fields](https://arxiv.org/pdf/2207.06403.pdf) | [Code](http://3d-cg.csail.mit.edu/) | [OpenReview](https://openreview.net/forum?id=n7Rk_RDh90) |
+**2022** | **LoG** | [Reasoning-Modulated Representations](https://arxiv.org/pdf/2107.08881.pdf) |  | [OpenReview](https://openreview.net/forum?id=QBGYYu3l3dG) | 
+**2022** | **ICML** | [Unsupervised Image Representation Learning with Deep Latent Particles](https://arxiv.org/pdf/2205.15821.pdf) | [Code](https://taldatech.github.io/deep-latent-particles-web/) | 
+**2022** | **ICML** | [Toward Compositional Generalization in Object-Oriented World Modeling](https://arxiv.org/pdf/2204.13661.pdf) | [Code](https://lfzhao.com/publication/2022-oowm/) | 
+**2022** | **ICML** | [COAT: Measuring Object Compositionality in Emergent Representations](https://proceedings.mlr.press/v162/xie22b/xie22b.pdf) | | 
+**2022** | **CVPR** | [Slot-VPS: Object-centric Representation Learning for Video Panoptic Segmentation](https://arxiv.org/pdf/2112.08949.pdf) | [Code](https://github.com/SAITPublic/SlotVPS) | 
+**2022** | **CVPR** | [Interactive Disentanglement: Learning Concepts by Interacting with their Prototype Representations](https://arxiv.org/pdf/2112.02290.pdf) | [Code](https://github.com/ml-research/XIConceptLearning) | 
+**2022** | **CVPR** | [HP-Capsule: Unsupervised Face Part Discovery by Hierarchical Parsing Capsule Network](https://arxiv.org/pdf/2203.10699.pdf) |  | 
+**2022** | **CVPR** | [Discovering Objects that Can Move](https://arxiv.org/pdf/2203.10159.pdf) | [Code](https://github.com/zpbao/Discovery_Obj_Move/) | 
+**2022** | **ICLRw** | [Towards Self-Supervised Learning of Global and Object-Centric Representations](https://arxiv.org/pdf/2203.05997.pdf) | [Code](https://github.com/baldassarreFe/iclr-osc-22) | [OpenReview](https://openreview.net/forum?id=SRfVvBuI9xq)
 
 ### Year 2021
 
