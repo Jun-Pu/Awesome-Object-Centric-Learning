@@ -20,7 +20,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#Datasets & Benchmarks">Datasets \& Benchmarks</a>
+      <a href="#Datasets and Benchmarks">Datasets \& Benchmarks</a>
       <ul>
         <li><a href="#Synthetic Data">Synthetic Data</a></li>
          <li><a href="#Real-World Data">Real-World Data</a></li>
@@ -63,7 +63,7 @@
 **2023** | **CVPR** | [Shepherding Slots to Objects: Towards Stable and Robust Object-Centric Learning](https://arxiv.org/pdf/2303.17842.pdf) | [Code](https://github.com/object-understanding/SLASH) |  | 
 **2023** | **ICLR** | [Bridging the Gap to Real-World Object-Centric Learning](https://openreview.net/pdf?id=b9tUk-f_aG) | | [OpenReview](https://openreview.net/forum?id=b9tUk-f_aG) |
 **2023** | **ICLR** | [Improving Object-centric Learning with Query Optimization](https://openreview.net/pdf?id=_-FN9mJsgg) | [Code](https://github.com/YuLiu-LY/BO-QSA) | [OpenReview](https://openreview.net/forum?id=_-FN9mJsgg) | 👍 
-**2023** | **ICLR** | [Learning to reason over visual objects](https://openreview.net/pdf?id=uR6x8Be7o_M) | | [OpenReview](https://openreview.net/forum?id=uR6x8Be7o_M) |
+**2023** | **ICLR** | [Learning to Reason over Visual Objects](https://openreview.net/pdf?id=uR6x8Be7o_M) | | [OpenReview](https://openreview.net/forum?id=uR6x8Be7o_M) |
 **2023** | **ICLR** | [Learning What and Where: Disentangling Location and Identity Tracking Without Supervision](https://openreview.net/pdf?id=NeDc-Ak-H_) | [Code](https://github.com/CognitiveModeling/Loci) | [OpenReview](https://openreview.net/forum?id=NeDc-Ak-H_) |
 **2023** | **ICLR** | [Neural Constraint Satisfaction: Hierarchical Abstraction for Combinatorial Generalization in Object Rearrangement](https://arxiv.org/pdf/2303.11373.pdf) | [Code](https://sites.google.com/view/neural-constraint-satisfaction/home) | [OpenReview](https://openreview.net/forum?id=fGG6vHp3W9W) | 
 **2023** | **ICLR** | [Robust and Controllable Object-Centric Learning through Energy-based Models](https://openreview.net/pdf?id=wcNtbEtcGIC) | | [OpenReview](https://openreview.net/forum?id=wcNtbEtcGIC) | 
@@ -82,4 +82,4 @@
 
 ## Contact
     
-Feel free to drop an e-mail to [junpuzhang.2022@gmail.com].
+Feel free to drop an e-mail to junpuzhang.2022@gmail.com.
