@@ -102,6 +102,7 @@
 **2022** | **ICML** | [Unsupervised Image Representation Learning with Deep Latent Particles](https://arxiv.org/pdf/2205.15821.pdf) | [Code](https://taldatech.github.io/deep-latent-particles-web/) | 
 **2022** | **ICML** | [Toward Compositional Generalization in Object-Oriented World Modeling](https://arxiv.org/pdf/2204.13661.pdf) | [Code](https://lfzhao.com/publication/2022-oowm/) | 
 **2022** | **ICML** | [COAT: Measuring Object Compositionality in Emergent Representations](https://proceedings.mlr.press/v162/xie22b/xie22b.pdf) | | 
+**2022** | **ICML** | [Generalization and Robustness Implications in Object-Centric Learning](https://proceedings.mlr.press/v162/dittadi22a/dittadi22a.pdf) | [Code](https://github.com/addtt/object-centric-library) | 
 **2022** | **CVPR** | [Slot-VPS: Object-centric Representation Learning for Video Panoptic Segmentation](https://arxiv.org/pdf/2112.08949.pdf) | [Code](https://github.com/SAITPublic/SlotVPS) | 
 **2022** | **CVPR** | [Interactive Disentanglement: Learning Concepts by Interacting with their Prototype Representations](https://arxiv.org/pdf/2112.02290.pdf) | [Code](https://github.com/ml-research/XIConceptLearning) | 
 **2022** | **CVPR** | [HP-Capsule: Unsupervised Face Part Discovery by Hierarchical Parsing Capsule Network](https://arxiv.org/pdf/2203.10699.pdf) |  | 
