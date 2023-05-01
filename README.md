@@ -21,7 +21,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#Data">Datasets \& Benchmarks</a>
+      <a href="#Datasets and Benchmarks">Datasets and Benchmarks</a>
       <ul>
         <li><a href="#Synthetic Data">Synthetic Data</a></li>
          <li><a href="#Real-World Data">Real-World Data</a></li>
