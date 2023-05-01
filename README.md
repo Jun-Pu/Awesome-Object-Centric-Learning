@@ -69,7 +69,7 @@
 **2023** | **CVPR** | [Intrinsic Physical Concepts Discovery with Object-Centric Predictive Models](https://arxiv.org/pdf/2303.01869.pdf) | | | 
 **2023** | **CVPR** | [Object Discovery from Motion-Guided Tokens](https://arxiv.org/pdf/2303.15555.pdf) | [Code](https://github.com/zpbao/MoTok) | | | :heavy_check_mark:
 **2023** | **CVPR** | [Shepherding Slots to Objects: Towards Stable and Robust Object-Centric Learning](https://arxiv.org/pdf/2303.17842.pdf) | [Code](https://github.com/object-understanding/SLASH) |  | 
-**2023** | **ICLR** | [Bridging the Gap to Real-World Object-Centric Learning](https://openreview.net/pdf?id=b9tUk-f_aG) | | [OpenReview](https://openreview.net/forum?id=b9tUk-f_aG) | :white_check_mark:
+**2023** | **ICLR** | [Bridging the Gap to Real-World Object-Centric Learning](https://openreview.net/pdf?id=b9tUk-f_aG) | [Code](https://github.com/amazon-science/object-centric-learning-framework) | [OpenReview](https://openreview.net/forum?id=b9tUk-f_aG) | :white_check_mark:
 **2023** | **ICLR** | [Improving Object-centric Learning with Query Optimization](https://openreview.net/pdf?id=_-FN9mJsgg) | [Code](https://github.com/YuLiu-LY/BO-QSA) | [OpenReview](https://openreview.net/forum?id=_-FN9mJsgg) | :white_check_mark:
 **2023** | **ICLR** | [Learning to Reason over Visual Objects](https://openreview.net/pdf?id=uR6x8Be7o_M) | | [OpenReview](https://openreview.net/forum?id=uR6x8Be7o_M) |
 **2023** | **ICLR** | [Learning What and Where: Disentangling Location and Identity Tracking Without Supervision](https://openreview.net/pdf?id=NeDc-Ak-H_) | [Code](https://github.com/CognitiveModeling/Loci) | [OpenReview](https://openreview.net/forum?id=NeDc-Ak-H_) | :white_check_mark:
