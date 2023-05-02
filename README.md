@@ -110,6 +110,7 @@
 **2022** | **CVPR** | [HP-Capsule: Unsupervised Face Part Discovery by Hierarchical Parsing Capsule Network](https://arxiv.org/pdf/2203.10699.pdf) |  | 
 **2022** | **CVPR** | [Discovering Objects that Can Move](https://arxiv.org/pdf/2203.10159.pdf) | [Code](https://github.com/zpbao/Discovery_Obj_Move/) | 
 **2022** | **ICLRw** | [Towards Self-Supervised Learning of Global and Object-Centric Representations](https://arxiv.org/pdf/2203.05997.pdf) | [Code](https://github.com/baldassarreFe/iclr-osc-22) | [OpenReview](https://openreview.net/forum?id=SRfVvBuI9xq)
+**2022** | **ICLR** | [Illiterate DALL-E Learns to Compose](https://arxiv.org/pdf/2110.11405.pdf) | [Code](https://sites.google.com/view/slate-autoencoder) | [OpenReview](https://openreview.net/forum?id=h0OYV0We3oh) |  :white_check_mark:
 **2022** | **ICLR** | [Conditional Object-Centric Learning from Video](https://openreview.net/pdf?id=aD7uesX1GF_) | [Code](https://github.com/google-research/slot-attention-video/) | [OpenReview](https://openreview.net/forum?id=aD7uesX1GF_)
 **2022** | **ICLR** | [Unsupervised Discovery of Object Radiance Fields](https://arxiv.org/pdf/2107.07905.pdf) | [Code](https://github.com/KovenYu/uORF) | [OpenReview](https://openreview.net/forum?id=rwE8SshAlxw)
 **2022** | **ICLR** | [Learning Super-Features for Image Retrieval](https://arxiv.org/pdf/2201.13182.pdf) | [Code](https://github.com/naver/FIRe) | [OpenReview](https://openreview.net/forum?id=wogsFPHwftY)
