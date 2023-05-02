@@ -54,7 +54,7 @@
  **Name** | **Source** 
 :-: | :-: 
 **PASCAL VOC, COCO** | [Link](https://github.com/amazon-science/object-centric-learning-framework)
-**CUB200 Birds, Stanford Dogs, Stanford Cars, and Caltech Flowers | [Link](https://github.com/YuLiu-LY/BO-QSA)
+**CUB200 Birds, Stanford Dogs, Stanford Cars, and Caltech Flowers** | [Link](https://github.com/YuLiu-LY/BO-QSA)
 **YCB,ScanNet and COCO** | [Link](https://github.com/vLAR-group/UnsupObjSeg)
 
 ## Methodologies
