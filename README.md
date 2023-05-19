@@ -134,13 +134,11 @@
 **2021** | **ICCV** | [SCOUTER: Slot Attention-based Classifier for Explainable Image Recognition](https://arxiv.org/pdf/2009.06138.pdf) | [Code](https://github.com/wbw520/scouter) 
 **2021** | **ICCV** | [PARTS: Unsupervised segmentation with slots, attention and independence maximization](https://openaccess.thecvf.com/content/ICCV2021/papers/Zoran_PARTS_Unsupervised_Segmentation_With_Slots_Attention_and_Independence_Maximization_ICCV_2021_paper.pdf) | 
 **2021** | **ICCV** | [GRF: Learning a General Radiance Field for 3D Representation and Rendering](https://arxiv.org/abs/2010.04595) | [Code](https://github.com/alextrevithick/GRF) 
-**2021** | **ACL** | [Language-Mediated, Object-Centric Representation Learning](https://arxiv.org/pdf/2012.15814.pdf) | [Code](https://lang-orl.github.io/)
 
 ### Year 2020
     
 **Year** | **Publication** | **Title** | **Source** | **Forum** |  **Real-World?**  
 :-: | :-:| :- | :-: | :-: | :-:
-**2020** | **NeurIPSw** | [Learning Object-Centric Video Models by Contrasting Sets](https://arxiv.org/pdf/2011.10287.pdf) | 
 **2020** | **NeurIPS** | [Learning Object-Centric Representations of Multi-Object Scenes from Multiple Views](https://arxiv.org/pdf/2111.07117.pdf) | [Code](https://github.com/NanboLi/MulMON) | [Review](https://proceedings.neurips.cc/paper_files/paper/2020/file/3d9dabe52805a1ea21864b09f3397593-Review.html)
 **2020** | **NeurIPS** | [Object-Centric Learning with Slot Attention](https://arxiv.org/pdf/2006.15055.pdf) <br><sup><sub> **TL;DR:** Learning object concepts iteratively with CNN-based high-level features. </sub></sup> | [Code](https://github.com/google-research/google-research/tree/master/slot_attention) | [Review](https://papers.nips.cc/paper/2020/file/8511df98c02ab60aea1b2356c013bc0f-Review.html)
 
