@@ -77,6 +77,7 @@
 **2023** | **ICLR** | [Neural Systematic Binder](https://arxiv.org/pdf/2211.01177.pdf) | [Code](https://github.com/singhgautam/sysbinder) | [OpenReview](https://openreview.net/forum?id=ZPHE4fht19t) | 
 **2023** | **ICLR** | [SlotFormer: Unsupervised Visual Dynamics Simulation with Object-Centric Models](https://arxiv.org/pdf/2210.05861.pdf) | [Code](https://github.com/pairlab/SlotFormer) | [OpenReview](https://openreview.net/forum?id=TFbwV6I0VLg) | 
 **2023** | **CLeaR** | [Causal Triplet: An Open Challenge for Intervention-centric Causal Representation Learning](https://openreview.net/pdf?id=HAYU8TRYTCb)   | [Code](https://github.com/CausalTriplet/causaltriplet) | [OpenReview](https://openreview.net/forum?id=HAYU8TRYTCb) | :white_check_mark:
+**2023** | **arXiv** | [SlotDiffusion: Object-Centric Generative Modeling with Diffusion Models](https://arxiv.org/pdf/2305.11281.pdf) | [Code](https://slotdiffusion.github.io/) | |  :white_check_mark:
 
 
 ### Year 2022
