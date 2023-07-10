@@ -12,7 +12,7 @@
    
 
 <p align="center">
- The list will be continually updated. Any recommendations and suggestions are welcomed!
+ The list will be continually updated. Stay tuned!
 
 < **Last updated: Apr/25/2023** >
         
