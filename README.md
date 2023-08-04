@@ -84,6 +84,7 @@
 **2023** | **ICLR** | [SlotFormer: Unsupervised Visual Dynamics Simulation with Object-Centric Models](https://arxiv.org/pdf/2210.05861.pdf) | [Code](https://github.com/pairlab/SlotFormer) | [OpenReview](https://openreview.net/forum?id=TFbwV6I0VLg) | 
 **2023** | **CLeaR** | [Causal Triplet: An Open Challenge for Intervention-centric Causal Representation Learning](https://openreview.net/pdf?id=HAYU8TRYTCb)   | [Code](https://github.com/CausalTriplet/causaltriplet) | [OpenReview](https://openreview.net/forum?id=HAYU8TRYTCb) | :white_check_mark:
 **2023** | **arXiv** | [SlotDiffusion: Object-Centric Generative Modeling with Diffusion Models](https://arxiv.org/pdf/2305.11281.pdf) | [Code](https://slotdiffusion.github.io/) | |  :white_check_mark:
+**2023** | **arXiv** | [Object-Centric Slot Diffusion](https://arxiv.org/pdf/2303.10834.pdf) | [Code](https://latentslotdiffusion.github.io/) | | :white_check_mark:
 
 
 ### Year 2022
