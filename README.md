@@ -61,8 +61,8 @@
 
 ### Year 2023
     
-**Year** | **Publication** | **Title** | **Source** | **Forum** |  **Real-World?**  
-:-: | :-:| :- | :-: | :-: | :-:
+**Year** | **Publication** | **Title** | **Source** | **Forum** |  **Real-World?**  | **Using VLMs?**
+:-: | :-:| :- | :-: | :-: | :-: |  :-:
 **2023** | **ICML** | [Unlocking Slot Attention by Changing Optimal Transport Costs](https://arxiv.org/pdf/2301.13197.pdf) | | 
 **2023** | **ICML** | [Test-time Adaptation with Slot-Centric Models](https://arxiv.org/pdf/2203.11194.pdf) | [Code](https://slot-tta.github.io/)| 
 **2023** | **ICML** | [Slot-VAE: Object-Centric Scene Generation with Slot Attention](https://arxiv.org/pdf/2306.06997.pdf) | | 
@@ -71,7 +71,7 @@
 **2023** | **ICML** | [Discovering Object-Centric Generalized Value Functions From Pixels](https://arxiv.org/pdf/2304.13892.pdf) |
 **2023** | **CVPR** | [Improving Cross-Modal Retrieval with Set of Diverse Embeddings](https://arxiv.org/pdf/2211.16761.pdf) | | | :white_check_mark:
 **2023** | **CVPR** | [Intrinsic Physical Concepts Discovery with Object-Centric Predictive Models](https://arxiv.org/pdf/2303.01869.pdf) | | | 
-**2023** | **CVPR** | [Object Discovery from Motion-Guided Tokens](https://arxiv.org/pdf/2303.15555.pdf) | [Code](https://github.com/zpbao/MoTok) | | | :heavy_check_mark:
+**2023** | **CVPR** | [Object Discovery from Motion-Guided Tokens](https://arxiv.org/pdf/2303.15555.pdf) | [Code](https://github.com/zpbao/MoTok) | |  :white_check_mark:
 **2023** | **CVPR** | [Shepherding Slots to Objects: Towards Stable and Robust Object-Centric Learning](https://arxiv.org/pdf/2303.17842.pdf) | [Code](https://github.com/object-understanding/SLASH) |  | 
 **2023** | **ICLR** | [Bridging the Gap to Real-World Object-Centric Learning](https://openreview.net/pdf?id=b9tUk-f_aG) | [Code](https://github.com/amazon-science/object-centric-learning-framework) | [OpenReview](https://openreview.net/forum?id=b9tUk-f_aG) | :white_check_mark:
 **2023** | **ICLR** | [Improving Object-centric Learning with Query Optimization](https://openreview.net/pdf?id=_-FN9mJsgg) | [Code](https://github.com/YuLiu-LY/BO-QSA) | [OpenReview](https://openreview.net/forum?id=_-FN9mJsgg) | :white_check_mark:
@@ -85,12 +85,13 @@
 **2023** | **CLeaR** | [Causal Triplet: An Open Challenge for Intervention-centric Causal Representation Learning](https://openreview.net/pdf?id=HAYU8TRYTCb)   | [Code](https://github.com/CausalTriplet/causaltriplet) | [OpenReview](https://openreview.net/forum?id=HAYU8TRYTCb) | :white_check_mark:
 **2023** | **arXiv** | [SlotDiffusion: Object-Centric Generative Modeling with Diffusion Models](https://arxiv.org/pdf/2305.11281.pdf) | [Code](https://slotdiffusion.github.io/) | |  :white_check_mark:
 **2023** | **arXiv** | [Object-Centric Slot Diffusion](https://arxiv.org/pdf/2303.10834.pdf) | [Code](https://latentslotdiffusion.github.io/) | | :white_check_mark:
+**2023** | **arXiv** | [Learning Disentangled Prompts for Compositional Image Synthesis](https://arxiv.org/pdf/2306.00763.pdf) | | | :white_check_mark: | :white_check_mark:
 
 
 ### Year 2022
     
-**Year** | **Publication** | **Title** | **Source** | **Forum** |  **Real-World?**  
-:-: | :-:| :- | :-: | :-: | :-:
+**Year** | **Publication** | **Title** | **Source** | **Forum** |  **Real-World?** | **Using VLMs?**
+:-: | :-:| :- | :-: | :-: | :-:|  :-:
 **2022** | **UAIw** | [Inductive Biases for Object-Centric Representations in the Presence of Complex Textures](https://arxiv.org/pdf/2204.08479.pdf) | | [OpenReview](https://openreview.net/forum?id=6wbNpKmfEOj) |
 **2022** | **TMLR** | [Complex-Valued Autoencoders for Object Discovery](https://arxiv.org/pdf/2204.02075.pdf) | [Code](https://github.com/loeweX/ComplexAutoEncoder) | | 
 **2022** | **NeurIPSw** | [Unlocking Slot Attention by Changing Optimal Transport Costs](https://arxiv.org/pdf/2301.13197.pdf) |  | [OpenReview](https://openreview.net/forum?id=27L6M45WI9) | 
@@ -115,7 +116,7 @@
 **2022** | **CVPR** | [HP-Capsule: Unsupervised Face Part Discovery by Hierarchical Parsing Capsule Network](https://arxiv.org/pdf/2203.10699.pdf) |  | 
 **2022** | **CVPR** | [Discovering Objects that Can Move](https://arxiv.org/pdf/2203.10159.pdf) | [Code](https://github.com/zpbao/Discovery_Obj_Move/) | 
 **2022** | **ICLRw** | [Towards Self-Supervised Learning of Global and Object-Centric Representations](https://arxiv.org/pdf/2203.05997.pdf) | [Code](https://github.com/baldassarreFe/iclr-osc-22) | [OpenReview](https://openreview.net/forum?id=SRfVvBuI9xq)
-**2022** | **ICLR** | [Illiterate DALL-E Learns to Compose](https://arxiv.org/pdf/2110.11405.pdf) | [Code](https://sites.google.com/view/slate-autoencoder) | [OpenReview](https://openreview.net/forum?id=h0OYV0We3oh) |  :white_check_mark:
+**2022** | **ICLR** | [Illiterate DALL-E Learns to Compose](https://arxiv.org/pdf/2110.11405.pdf) | [Code](https://sites.google.com/view/slate-autoencoder) | [OpenReview](https://openreview.net/forum?id=h0OYV0We3oh) |  :white_check_mark: |  :white_check_mark:
 **2022** | **ICLR** | [Conditional Object-Centric Learning from Video](https://openreview.net/pdf?id=aD7uesX1GF_) | [Code](https://github.com/google-research/slot-attention-video/) | [OpenReview](https://openreview.net/forum?id=aD7uesX1GF_)
 **2022** | **ICLR** | [Unsupervised Discovery of Object Radiance Fields](https://arxiv.org/pdf/2107.07905.pdf) | [Code](https://github.com/KovenYu/uORF) | [OpenReview](https://openreview.net/forum?id=rwE8SshAlxw)
 **2022** | **ICLR** | [Learning Super-Features for Image Retrieval](https://arxiv.org/pdf/2201.13182.pdf) | [Code](https://github.com/naver/FIRe) | [OpenReview](https://openreview.net/forum?id=wogsFPHwftY)
@@ -126,8 +127,8 @@
 
 ### Year 2021
     
-**Year** | **Publication** | **Title** | **Source** | **Forum** |  **Real-World?**  
-:-: | :-:| :- | :-: | :-: | :-:
+**Year** | **Publication** | **Title** | **Source** | **Forum** |  **Real-World?** | **Using VLMs?** 
+:-: | :-:| :- | :-: | :-: | :-:|  :-:
 **2021** | **NeurIPS** | [Unsupervised Foreground Extraction via Deep Region Competition](https://arxiv.org/pdf/2110.15497.pdf) | [Code](https://github.com/yuPeiyu98/DRC) | [OpenReview](https://openreview.net/forum?id=tu5Wg41hWl_)
 **2021** | **NeurIPS** | [SIMONe: View-Invariant, Temporally-Abstracted Object Representations via Unsupervised Video Decomposition](https://arxiv.org/pdf/2106.03849.pdf) | [Code](https://sites.google.com/view/simone-scene-understanding/) | [OpenReview](https://openreview.net/forum?id=YSzTMntO1KY)
 **2021** | **NeurIPS** | [Object-Centric Representation Learning with Generative Spatial-Temporal Factorization](https://arxiv.org/pdf/2111.05393.pdf) |  | [OpenReview](https://openreview.net/forum?id=cA8Yp87yTiR)
@@ -145,8 +146,8 @@
 
 ### Year 2020
     
-**Year** | **Publication** | **Title** | **Source** | **Forum** |  **Real-World?**  
-:-: | :-:| :- | :-: | :-: | :-:
+**Year** | **Publication** | **Title** | **Source** | **Forum** |  **Real-World?**  | **Using VLMs?**
+:-: | :-:| :- | :-: | :-: | :-:|  :-:
 **2020** | **NeurIPS** | [Learning Object-Centric Representations of Multi-Object Scenes from Multiple Views](https://arxiv.org/pdf/2111.07117.pdf) | [Code](https://github.com/NanboLi/MulMON) | [Review](https://proceedings.neurips.cc/paper_files/paper/2020/file/3d9dabe52805a1ea21864b09f3397593-Review.html)
 **2020** | **NeurIPS** | [Object-Centric Learning with Slot Attention](https://arxiv.org/pdf/2006.15055.pdf) <br><sup><sub> **TL;DR:** Learning object concepts iteratively with CNN-based high-level features. </sub></sup> | [Code](https://github.com/google-research/google-research/tree/master/slot_attention) | [Review](https://papers.nips.cc/paper/2020/file/8511df98c02ab60aea1b2356c013bc0f-Review.html)
 
