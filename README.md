@@ -148,11 +148,14 @@
     
 **Year** | **Publication** | **Title** | **Source** | **Forum** |  **Real-World?**  | **Using VLMs?**
 :-: | :-:| :- | :-: | :-: | :-:|  :-:
-**2020** | **NeurIPS** | [Learning Object-Centric Representations of Multi-Object Scenes from Multiple Views](https://arxiv.org/pdf/2111.07117.pdf) | [Code](https://github.com/NanboLi/MulMON) | [Review](https://proceedings.neurips.cc/paper_files/paper/2020/file/3d9dabe52805a1ea21864b09f3397593-Review.html)
-**2020** | **NeurIPS** | [Object-Centric Learning with Slot Attention](https://arxiv.org/pdf/2006.15055.pdf) <br><sup><sub> **TL;DR:** Learning object concepts iteratively with CNN-based high-level features. </sub></sup> | [Code](https://github.com/google-research/google-research/tree/master/slot_attention) | [Review](https://papers.nips.cc/paper/2020/file/8511df98c02ab60aea1b2356c013bc0f-Review.html)
+**2020** | **NeurIPS** | [Learning Object-Centric Representations of Multi-Object Scenes from Multiple Views](https://arxiv.org/pdf/2111.07117.pdf) | [Code](https://github.com/NanboLi/MulMON) | [NeurIPS Proceedings](https://proceedings.neurips.cc/paper_files/paper/2020/hash/3d9dabe52805a1ea21864b09f3397593-Abstract.html)
+**2020** | **NeurIPS** | [Object-Centric Learning with Slot Attention](https://arxiv.org/pdf/2006.15055.pdf) <br><sup><sub> **TL;DR:** Learning object concepts iteratively with CNN-based high-level features. </sub></sup> | [Code](https://github.com/google-research/google-research/tree/master/slot_attention) | [NeurIPS Proceedings](https://proceedings.neurips.cc/paper_files/paper/2020/hash/8511df98c02ab60aea1b2356c013bc0f-Abstract.html)
+**2020** | **NeurIPS** | [Unsupervised object-centric video generation and decomposition in 3D](https://arxiv.org/pdf/2007.06705.pdf) | [Code](https://www.pmh47.net/o3v/) | [NeurIPS Proceedings](https://proceedings.neurips.cc/paper_files/paper/2020/hash/20125fd9b2d43e340a35fb0278da235d-Abstract.html)
+**2020** | **NeurIPS** | [BlockGAN: Learning 3D Object-aware Scene Representations from Unlabelled Images](https://arxiv.org/pdf/2002.08988.pdf) | [Code](https://www.monkeyoverflow.com/#/blockgan/) | [NeurIPS Proceedings](https://proceedings.neurips.cc/paper_files/paper/2020/hash/4b29fa4efe4fb7bc667c7b301b74d52d-Abstract.html)
 **2020** | **ICLR** | [GENESIS: Generative Scene Inference and Sampling with Object-Centric Latent Representations](https://openreview.net/pdf?id=BkxfaTVFwH) | [Code](https://github.com/applied-ai-lab/genesis) | [OpenReview](https://openreview.net/forum?id=BkxfaTVFwH)
 **2020** | **ICLR** | [Structured Object-Aware Physics Prediction for Video Modeling and Planning](https://openreview.net/pdf?id=B1e-kxSKDH) | [Code](https://github.com/jlko/STOVE) | [OpenReview](https://openreview.net/forum?id=B1e-kxSKDH)
 **2020** | **ICLR** | [SCALOR: Generative World Models with Scalable Object Representations](https://openreview.net/pdf?id=SJxrKgStDH) | [Code](https://github.com/JindongJiang/SCALOR) | [OpenReview](https://openreview.net/forum?id=SJxrKgStDH)
+**2020** | **ICML** | [Improving Generative Imagination in Object-Centric World Models](https://arxiv.org/pdf/2010.02054.pdf) | [Code](https://github.com/zhixuan-lin/G-SWM) | [PMLR Proceedings](https://proceedings.mlr.press/v119/lin20f.html)
 
 ## Contact
     
