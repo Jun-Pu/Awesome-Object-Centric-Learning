@@ -150,6 +150,9 @@
 :-: | :-:| :- | :-: | :-: | :-:|  :-:
 **2020** | **NeurIPS** | [Learning Object-Centric Representations of Multi-Object Scenes from Multiple Views](https://arxiv.org/pdf/2111.07117.pdf) | [Code](https://github.com/NanboLi/MulMON) | [Review](https://proceedings.neurips.cc/paper_files/paper/2020/file/3d9dabe52805a1ea21864b09f3397593-Review.html)
 **2020** | **NeurIPS** | [Object-Centric Learning with Slot Attention](https://arxiv.org/pdf/2006.15055.pdf) <br><sup><sub> **TL;DR:** Learning object concepts iteratively with CNN-based high-level features. </sub></sup> | [Code](https://github.com/google-research/google-research/tree/master/slot_attention) | [Review](https://papers.nips.cc/paper/2020/file/8511df98c02ab60aea1b2356c013bc0f-Review.html)
+**2020** | **ICLR** | [GENESIS: Generative Scene Inference and Sampling with Object-Centric Latent Representations](https://openreview.net/pdf?id=BkxfaTVFwH) | [Code](https://github.com/applied-ai-lab/genesis) | [OpenReview](https://openreview.net/forum?id=BkxfaTVFwH)
+**2020** | **ICLR** | [Structured Object-Aware Physics Prediction for Video Modeling and Planning](https://openreview.net/pdf?id=B1e-kxSKDH) | [Code](https://github.com/jlko/STOVE) | [OpenReview](https://openreview.net/forum?id=B1e-kxSKDH)
+**2020** | **ICLR** | [SCALOR: Generative World Models with Scalable Object Representations](https://openreview.net/pdf?id=SJxrKgStDH) | [Code](https://github.com/JindongJiang/SCALOR) | [OpenReview](https://openreview.net/forum?id=SJxrKgStDH)
 
 ## Contact
     
