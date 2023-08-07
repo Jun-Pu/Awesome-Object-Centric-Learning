@@ -63,16 +63,18 @@
     
 **Year** | **Publication** | **Title** | **Source** | **Forum** |  **Real-World?**  | **Using VLMs?**
 :-: | :-:| :- | :-: | :-: | :-: |  :-:
-**2023** | **ICML** | [Unlocking Slot Attention by Changing Optimal Transport Costs](https://arxiv.org/pdf/2301.13197.pdf) | | 
-**2023** | **ICML** | [Test-time Adaptation with Slot-Centric Models](https://arxiv.org/pdf/2203.11194.pdf) | [Code](https://slot-tta.github.io/)| 
-**2023** | **ICML** | [Slot-VAE: Object-Centric Scene Generation with Slot Attention](https://arxiv.org/pdf/2306.06997.pdf) | | 
-**2023** | **ICML** | [Invariant Slot Attention: Object Discovery with Slot-Centric Reference Frames](https://arxiv.org/pdf/2302.04973.pdf) | [Code](https://github.com/google-research/google-research/tree/master/invariant_slot_attention) | 
-**2023** | **ICML** | [An Investigation into Pre-Training Object-Centric Representations for Reinforcement Learning](https://arxiv.org/pdf/2302.04419.pdf) | [Code](https://sites.google.com/view/ocrl/home) | 
-**2023** | **ICML** | [Discovering Object-Centric Generalized Value Functions From Pixels](https://arxiv.org/pdf/2304.13892.pdf) |
-**2023** | **CVPR** | [Improving Cross-Modal Retrieval with Set of Diverse Embeddings](https://arxiv.org/pdf/2211.16761.pdf) | | | :white_check_mark:
-**2023** | **CVPR** | [Intrinsic Physical Concepts Discovery with Object-Centric Predictive Models](https://arxiv.org/pdf/2303.01869.pdf) | | | 
-**2023** | **CVPR** | [Object Discovery from Motion-Guided Tokens](https://arxiv.org/pdf/2303.15555.pdf) | [Code](https://github.com/zpbao/MoTok) | |  :white_check_mark:
-**2023** | **CVPR** | [Shepherding Slots to Objects: Towards Stable and Robust Object-Centric Learning](https://arxiv.org/pdf/2303.17842.pdf) | [Code](https://github.com/object-understanding/SLASH) |  | 
+**2023** | **ICML** | [Provably Learning Object-Centric Representations](https://proceedings.mlr.press/v202/brady23a/brady23a.pdf) | [Code](https://brendel-group.github.io/objects-identifiability/) | [PMLR](https://proceedings.mlr.press/v202/brady23a.html)
+**2023** | **ICML** | [Unlocking Slot Attention by Changing Optimal Transport Costs](https://arxiv.org/pdf/2301.13197.pdf) | | [PMLR](https://proceedings.mlr.press/v202/zhang23ba.html)
+**2023** | **ICML** | [Test-time Adaptation with Slot-Centric Models](https://arxiv.org/pdf/2203.11194.pdf) | [Code](https://slot-tta.github.io/)| [PMLR](https://proceedings.mlr.press/v202/prabhudesai23a.html) 
+**2023** | **ICML** | [Slot-VAE: Object-Centric Scene Generation with Slot Attention](https://arxiv.org/pdf/2306.06997.pdf) | | [PMLR](https://proceedings.mlr.press/v202/wang23r.html)
+**2023** | **ICML** | [Invariant Slot Attention: Object Discovery with Slot-Centric Reference Frames](https://arxiv.org/pdf/2302.04973.pdf) | [Code](https://github.com/google-research/google-research/tree/master/invariant_slot_attention) | [PMLR](https://proceedings.mlr.press/v202/biza23a.html)
+**2023** | **ICML** | [An Investigation into Pre-Training Object-Centric Representations for Reinforcement Learning](https://arxiv.org/pdf/2302.04419.pdf) | [Code](https://sites.google.com/view/ocrl/home) | [PMLR](https://proceedings.mlr.press/v202/yoon23c.html)
+**2023** | **ICML** | [Discovering Object-Centric Generalized Value Functions From Pixels](https://arxiv.org/pdf/2304.13892.pdf) | | [PMLR](https://proceedings.mlr.press/v202/nath23a.html)
+**2023** | **UAI** | [Time-Conditioned Generative Modeling of Object-Centric Representations for Video Decomposition and Prediction](https://arxiv.org/pdf/2301.08951.pdf) | | [PMLR](https://proceedings.mlr.press/v216/gao23a.html)
+**2023** | **CVPR** | [Intrinsic Physical Concepts Discovery with Object-Centric Predictive Models](https://arxiv.org/pdf/2303.01869.pdf) | | [CVF Proceedings](https://openaccess.thecvf.com/content/CVPR2023/html/Tang_Intrinsic_Physical_Concepts_Discovery_With_Object-Centric_Predictive_Models_CVPR_2023_paper.html) | 
+**2023** | **CVPR** | [Object Discovery from Motion-Guided Tokens](https://arxiv.org/pdf/2303.15555.pdf) | [Code](https://github.com/zpbao/MoTok) | [CVF Proceedings](https://openaccess.thecvf.com/content/CVPR2023/html/Bao_Object_Discovery_From_Motion-Guided_Tokens_CVPR_2023_paper.html) |  :white_check_mark:
+**2023** | **CVPR** | [Shepherding Slots to Objects: Towards Stable and Robust Object-Centric Learning](https://arxiv.org/pdf/2303.17842.pdf) | [Code](https://github.com/object-understanding/SLASH) |  [CVF Proceedings](https://openaccess.thecvf.com/content/CVPR2023/html/Kim_Shepherding_Slots_to_Objects_Towards_Stable_and_Robust_Object-Centric_Learning_CVPR_2023_paper.html)
+**2023** | **CVPR** | [Multi-Object Manipulation via Object-Centric Neural Scattering Functions](https://arxiv.org/pdf/2306.08748.pdf) | [Code](https://s-tian.github.io/projects/actionosf/) | [CVF Proceedings](https://openaccess.thecvf.com/content/CVPR2023/html/Tian_Multi-Object_Manipulation_via_Object-Centric_Neural_Scattering_Functions_CVPR_2023_paper.html)
 **2023** | **ICLR** | [Bridging the Gap to Real-World Object-Centric Learning](https://openreview.net/pdf?id=b9tUk-f_aG) | [Code](https://github.com/amazon-science/object-centric-learning-framework) | [OpenReview](https://openreview.net/forum?id=b9tUk-f_aG) | :white_check_mark:
 **2023** | **ICLR** | [Improving Object-centric Learning with Query Optimization](https://openreview.net/pdf?id=_-FN9mJsgg) | [Code](https://github.com/YuLiu-LY/BO-QSA) | [OpenReview](https://openreview.net/forum?id=_-FN9mJsgg) | :white_check_mark:
 **2023** | **ICLR** | [Learning to Reason over Visual Objects](https://openreview.net/pdf?id=uR6x8Be7o_M) | | [OpenReview](https://openreview.net/forum?id=uR6x8Be7o_M) |
