@@ -133,16 +133,13 @@
 **2021** | **NeurIPS** | [SIMONe: View-Invariant, Temporally-Abstracted Object Representations via Unsupervised Video Decomposition](https://arxiv.org/pdf/2106.03849.pdf) | [Code](https://sites.google.com/view/simone-scene-understanding/) | [OpenReview](https://openreview.net/forum?id=YSzTMntO1KY)
 **2021** | **NeurIPS** | [Object-Centric Representation Learning with Generative Spatial-Temporal Factorization](https://arxiv.org/pdf/2111.05393.pdf) |  | [OpenReview](https://openreview.net/forum?id=cA8Yp87yTiR)
 **2021** | **NeurIPS** | [Neural Production Systems](https://arxiv.org/pdf/2103.01937.pdf) | | [OpenReview](https://openreview.net/forum?id=xQGYquca0gB)
-**2021** | **NeurIPS** | [Mini-Batch Consistent Slot Set Encoder for Scalable Set Encoding](https://openreview.net/pdf?id=FTdrVlWfvsz) |  | [OpenReview](https://openreview.net/forum?id=FTdrVlWfvsz)
 **2021** | **NeurIPS** | [MarioNette: Self-Supervised Sprite Learning](https://arxiv.org/pdf/2104.14553.pdf) | [Code](https://github.com/dmsm/MarioNette) | [OpenReview](https://openreview.net/forum?id=3zP6RrQtNa)
 **2021** | **NeurIPS** | [GENESIS-V2: Inferring Unordered Object Representations without Iterative Refinement](https://arxiv.org/pdf/2104.09958v2.pdf) | [Code](https://github.com/applied-ai-lab/genesis) | [OpenReview](https://openreview.net/forum?id=nRBZWEUhIhW)
 **2021** | **NeurIPS** | [Dynamic Visual Reasoning by Learning Differentiable Physics Models from Video and Language](https://arxiv.org/pdf/2110.15358.pdf) | [Code](http://vrdp.csail.mit.edu/) | [OpenReview](https://openreview.net/forum?id=lk1ORT35tbi)
 **2021** | **NeurIPS** | [Attention over Learned Object Embeddings Enables Complex Visual Reasoning](https://arxiv.org/pdf/2012.08508.pdf) | [Code](https://github.com/deepmind/deepmind-research/tree/master/object_attention_for_reasoning) | [OpenReview](https://openreview.net/forum?id=lHmhW2zmVN)
-**2021** | **ICML** | [Efficient Iterative Amortized Inference for Learning Symmetric and Disentangled Multi-Object Representations](https://arxiv.org/pdf/2106.03630.pdf) | [Code](https://github.com/pemami4911/EfficientMORL) |
-**2021** | **ICCV** | [Self-supervised Video Object Segmentation by Motion Grouping](https://arxiv.org/pdf/2104.07658.pdf) | [Code](https://charigyang.github.io/motiongroup/) 
-**2021** | **ICCV** | [SCOUTER: Slot Attention-based Classifier for Explainable Image Recognition](https://arxiv.org/pdf/2009.06138.pdf) | [Code](https://github.com/wbw520/scouter) 
+**2021** | **ICML** | [Efficient Iterative Amortized Inference for Learning Symmetric and Disentangled Multi-Object Representations](https://arxiv.org/pdf/2106.03630.pdf) | [Code](https://github.com/pemami4911/EfficientMORL) | [PMLR](https://proceedings.mlr.press/v139/emami21a.html)
 **2021** | **ICCV** | [PARTS: Unsupervised segmentation with slots, attention and independence maximization](https://openaccess.thecvf.com/content/ICCV2021/papers/Zoran_PARTS_Unsupervised_Segmentation_With_Slots_Attention_and_Independence_Maximization_ICCV_2021_paper.pdf) | 
-**2021** | **ICCV** | [GRF: Learning a General Radiance Field for 3D Representation and Rendering](https://arxiv.org/abs/2010.04595) | [Code](https://github.com/alextrevithick/GRF) 
+**2021** | **ICLR** | [Self-supervised Visual Reinforcement Learning with Object-centric Representations](https://openreview.net/pdf?id=xppLmXCbOw1) | [Code](https://github.com/martius-lab/SMORL) | [OpenReview](https://openreview.net/forum?id=xppLmXCbOw1)
 
 ### Year 2020
     
@@ -155,7 +152,7 @@
 **2020** | **ICLR** | [GENESIS: Generative Scene Inference and Sampling with Object-Centric Latent Representations](https://openreview.net/pdf?id=BkxfaTVFwH) | [Code](https://github.com/applied-ai-lab/genesis) | [OpenReview](https://openreview.net/forum?id=BkxfaTVFwH)
 **2020** | **ICLR** | [Structured Object-Aware Physics Prediction for Video Modeling and Planning](https://openreview.net/pdf?id=B1e-kxSKDH) | [Code](https://github.com/jlko/STOVE) | [OpenReview](https://openreview.net/forum?id=B1e-kxSKDH)
 **2020** | **ICLR** | [SCALOR: Generative World Models with Scalable Object Representations](https://openreview.net/pdf?id=SJxrKgStDH) | [Code](https://github.com/JindongJiang/SCALOR) | [OpenReview](https://openreview.net/forum?id=SJxrKgStDH)
-**2020** | **ICML** | [Improving Generative Imagination in Object-Centric World Models](https://arxiv.org/pdf/2010.02054.pdf) | [Code](https://github.com/zhixuan-lin/G-SWM) | [PMLR Proceedings](https://proceedings.mlr.press/v119/lin20f.html)
+**2020** | **ICML** | [Improving Generative Imagination in Object-Centric World Models](https://arxiv.org/pdf/2010.02054.pdf) | [Code](https://github.com/zhixuan-lin/G-SWM) | [PMLR](https://proceedings.mlr.press/v119/lin20f.html)
 
 ## Contact
     
