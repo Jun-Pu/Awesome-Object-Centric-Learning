@@ -1,6 +1,3 @@
-<p align="center">
-    <img src="./figs/fig_ObjCL_LOGO.png" width="87%"/> <br />
-</p>
 
 # <p align=center>`Awesome object-centric learning`
 
