@@ -1,3 +1,8 @@
+<p align="center">
+    <img src="./figs/fig_Emergence_Chinese.jpg" width="100%"/> <br />
+    <em>
+    </em>
+</p>
 
 # <p align=center>`Awesome object-centric learning`
 
