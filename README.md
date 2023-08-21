@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./figs/fig_Emergence.jpg" width="100%"/> <br />
+    <img src="./figs/fig_emergence.jpg" width="70%"/> <br />
     <em>
     </em>
 </p>
