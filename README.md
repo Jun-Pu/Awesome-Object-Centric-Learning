@@ -4,7 +4,7 @@
     </em>
 </p>
 
-# <p align=center>`Awesome object-centric learning`
+# <p align=center>`Awesome object-centric learning (OCL)`
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT) 
 [![Forks](https://img.shields.io/github/forks/Jun-Pu/Awesome-object-centric-learning.svg?style=for-the-badge)](https://github.com/Jun-Pu/Awesome-object-centric-learning/network/members)
@@ -14,7 +14,9 @@
    
 
 <p align="center">
- The list will be continually updated. Stay tuned!
+The list will be continually updated. Stay tuned!
+    
+    OCL models decompose and reconstruct the given scenes via learning multiple disentangled abstract representations interpreting multiple levels of object-centric concepts.
 
 < **Last updated: Aug/07/2023** >
         
