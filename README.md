@@ -16,7 +16,7 @@
 <p align="center">
 The list will be continually updated. Stay tuned!
     
-    OCL models decompose and reconstruct the given scenes via learning multiple disentangled abstract representations, which interpret multiple levels of object-centric concepts, in a fully unsupervised manner.
+    OCL models decompose and reconstruct the synthetic/real-world scenes via learning multiple disentangled abstract representations, which interpret multiple levels of object-centric concepts, in a fully unsupervised manner.
 
 < **Last updated: Aug/07/2023** >
         
