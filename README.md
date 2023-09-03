@@ -92,7 +92,7 @@ The list will be continually updated. Stay tuned!
 **2023** | **arXiv** | [SlotDiffusion: Object-Centric Generative Modeling with Diffusion Models](https://arxiv.org/pdf/2305.11281.pdf) <br><sub> **SlotDiff:** An object-centric latent diffusion model designed for both synthetic/real-world image and video data.  </sub> | [Code](https://slotdiffusion.github.io/) | |  :white_check_mark:
 **2023** | **arXiv** | [Object-Centric Slot Diffusion](https://arxiv.org/pdf/2303.10834.pdf) <br><sub> **LSD:** Replacing the conventional slot decoders with a latent diffusion model conditioned on the object slots. </sub> | [Code](https://latentslotdiffusion.github.io/) | | :white_check_mark:
 **2023** | **arXiv** | [Sensitivity of Slot-Based Object-Centric Models to their Number of Slots](https://arxiv.org/pdf/2305.18890.pdf) <br><sub> **NumSlots:** Proposing to use analogs to precision and recall based on the Adjusted Rand Index to accurately quantify model behavior over a large range of slots. </sub> 
-**2023** | **arXiv** | [Spotlight Attention: Robust Object-Centric Learning With a Spatial Locality Prior](https://arxiv.org/pdf/2305.19550.pdf)
+**2023** | **arXiv** | [Spotlight Attention: Robust Object-Centric Learning With a Spatial Locality Prior](https://arxiv.org/pdf/2305.19550.pdf) <br><sub> **LSP:** Incorporating a spatial-locality prior into state-of-the-art object-centric vision models, and obtaining significant improvements in segmenting objects in both synthetic and real-world datasets. </sub> | | | :white_check_mark:
 
 
 ### Year 2022
