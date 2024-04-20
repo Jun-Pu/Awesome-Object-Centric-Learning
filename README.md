@@ -6,6 +6,8 @@
 
 # <p align=center>`Awesome object-centric learning (OCL)`
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT) 
 [![Forks](https://img.shields.io/github/forks/Jun-Pu/Awesome-object-centric-learning.svg?style=for-the-badge)](https://github.com/Jun-Pu/Awesome-object-centric-learning/network/members)
 [![Stargazers](https://img.shields.io/github/stars/Jun-Pu/Awesome-object-centric-learning.svg?style=for-the-badge)](https://github.com/Jun-Pu/Awesome-object-centric-learning/stargazers)
